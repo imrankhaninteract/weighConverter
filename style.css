@@ -6,13 +6,9 @@ body{
   color:#fff;
   }
 
-/* .container{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 10%;
-} */
-
+form input{
+  background: rgba(0, 0, 0, 0.237);
+}
 
 
 
