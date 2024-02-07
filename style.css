@@ -7,7 +7,7 @@ body{
   }
 
 form input{
-  background: rgba(0, 0, 0, 0.237);
+  background: rgba(0, 0, 0, 0.237) !important;
 }
 
 
