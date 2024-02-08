@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 body{
-  background: linear-gradient(#00000063,#000000), url("https://images.pexels.com/photos/260447/pexels-photo-260447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background: linear-gradient(#00000063,#000000), url("https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   height: 100vh;
   background-size: cover;
   margin-top:70px;
