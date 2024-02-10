@@ -29,15 +29,15 @@ body{
 }
 
 .card-primary {
-  background-color: rgba(255, 0, 0, 0.1); 
+  background-color: rgba(255, 0, 0, 0.3); 
 }
 
 .card-success {
-  background-color: rgba(0, 255, 0, 0.1);
+  background-color: rgba(0, 255, 0, 0.3);
 }
 
 .card-danger {
-  background-color: rgba(0, 0, 255, 0.1); 
+  background-color: rgba(0, 0, 255, 0.3); 
 }
 
 
